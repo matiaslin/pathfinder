@@ -16,7 +16,7 @@ on a cell on the canvas. Once both the "Home" and "Destination" has been
 selected, the user can press the button "Run" that will start the path finding
 algorithm.
 The program will display the shortest path by painting certain cells with the
-color green and the number of cells will be shown on the terminal.
+color orange and the number of cells will be shown on the terminal.
 
 
 Future work:
